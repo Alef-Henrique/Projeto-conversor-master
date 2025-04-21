@@ -7,7 +7,11 @@ Tecnologias ultilizadas:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript"/>
 
+<<<<<<< HEAD
 <img src="assets/projeto-convert.png">
+=======
+
+>>>>>>> 12e7d1d0e324e92e5ab65db76e99bd97f4ccd26b
 Veja o meu projeto <a href="https://projeto-conversor-master.vercel.app/">aqui </a>!
 
 
